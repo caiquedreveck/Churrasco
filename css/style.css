@@ -1,0 +1,42 @@
+.body{
+    background-color: #000000;
+}
+
+
+.title{
+    padding-top: 10px;
+    padding-bottom: 8px;
+    border: 2px solid bisque;
+    border-top: 0;
+    background-color: darkred;
+}
+
+.navbar {
+    background-color:bisque;
+    padding: 1px;
+    padding-top: 0
+    }   
+
+    .nav-link{
+        color: bisque;
+    }
+
+.imgtopbar01{
+    width: 800px;
+    height:250px;
+    padding: 1px;
+    padding-top: 0
+    
+}
+.imgtopbar02{
+    width:800px;
+    height:250px;
+    padding: 1px;
+    padding-top: 0
+}
+.imgtopbar03{
+    width:800px;
+    height:250px;
+    padding: 1px;
+    padding-top: 0;
+}
